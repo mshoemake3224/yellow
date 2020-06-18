@@ -1,7 +1,4 @@
 # yellow
-<<<<<<< HEAD
-Project 1
-=======
 DataViz-Proj1
 
 Project Title: How Precipitation Impacts Wildfires in California
@@ -11,19 +8,15 @@ Project Description: Our project will look at the relationship between precipita
 
 Research Questions (3-4): 
 
-1.) Where does it rain most frequently in California and is there a correlation with wildfires? 
+1.) Is there a correlation between total amount of rain in a specific area and the total number of wildfires? 
 
-2.) Is there a correlation between total amount of rain in a specific area and the total number of wildfires? 
+2.) Is there a correlation between total number of acres burned and precipitation or the size of wildfires? 
 
-3.) Is there a correlation between total number of acres burned and precipitation or the size of wildfires? 
+3.) Is there a correlation between the duration of a wildfire and precipitation? Could there be outside factors shortening the duration of a wildfire? Do fires last longer when there is less precipitation?
 
-4.) Is there a correlation between the duration of a wildfire and precipitation? 
+4.)  
 
-5.) Do fires last longer when there is less precipitation? Could there be outside factors shortening the duration of a wildfire? 
-
-6) Is there a correlation between wind intensity and wildfires? 
-
-Datasets: https://www.fire.ca.gov/incidents/, https://data.nodc.noaa.gov/cgi-bin/iso?id=gov.noaa.ncdc:C00313
+Datasets: https://www.kaggle.com/annieichen/top-20-largest-california-wildfires, https://data.nodc.noaa.gov/cgi-bin/iso?id=gov.noaa.ncdc:C00313, https://data.ca.gov/dataset/cimis-weather-station-data1, https://www.kaggle.com/rtatman/188-million-us-wildfires
 
 Breakdown of Tasks: 
 
@@ -37,5 +30,4 @@ Breakdown of Tasks:
  
  5.) Optionally, use at least one API, if you can find an API with data pertinent to your primary research questions
  
- 6.) Create a write-up summarizing your major findings. This should include a heading for each "question" you asked of your data, and under each heading, a short description of what you found and any relevant plots.
->>>>>>> parent of 9aaa577... Update README.md
+ 6.) Create a write-up summarizing your major findings. This should include a heading for each "question" you asked of your data, and under each heading, a short description of what you found and any relevant plots
