@@ -18,7 +18,7 @@ Research Questions (3-4):
 
 5.) Do fires last longer when there is less precipitation? Could there be outside factors shortening the duration of a wildfire? 
 
-6) Is there a correlation between wind intensity and wildfires? 
+6.) Is there a correlation between wind intensity and wildfires? 
 
 Datasets: https://www.fire.ca.gov/incidents/, https://data.nodc.noaa.gov/cgi-bin/iso?id=gov.noaa.ncdc:C00313
 
