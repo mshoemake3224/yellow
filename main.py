@@ -6,19 +6,11 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "# Clean Data Sets\n",
+    "# Use Pandas to clean and format your data set(s)\n",
     "# Reduce cal_fires.csv to the following columns: incident_name, incident_date_created, incident_county, \n",
     "# incident_acres_burned, incident_longitude, incident_latitude, incident_date_extinguished\n",
-    "\n",
     "# Change column names to: Fire Name, Start Date, County, Acres Burned, Longitude, Latitude, Extinguished Date"
    ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": []
   }
  ],
  "metadata": {
