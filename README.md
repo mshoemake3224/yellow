@@ -18,7 +18,7 @@ Research Questions (3-4):
 
 5.) Do fires last longer when there is less precipitation? Could there be outside factors shortening the duration of a wildfire? 
 
-6.) Is there a correlation between wind intensity and wildfires? 
+6) Is there a correlation between wind intensity and wildfires? 
 
 Datasets: https://www.fire.ca.gov/incidents/, https://data.nodc.noaa.gov/cgi-bin/iso?id=gov.noaa.ncdc:C00313
 
@@ -33,6 +33,22 @@ Breakdown of Tasks:
  2.) Create a Jupyter Notebook illustrating the final data analysis
  
  3.) Use Matplotlib to create a total of 6-8 visualizations of your data (ideally, at least 2 per "question" you ask of your data)
+ 
+ a.) Show counties with highest rain in bar chart format
+ 
+ b.) Show counties with highest wildfire count in bar chart
+ 
+ c.) 
+ 
+ d.)
+ 
+ e.)
+ 
+ f.)
+ 
+ g.) 
+ 
+ h.)
  
  4.) Save PNG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentation
  
