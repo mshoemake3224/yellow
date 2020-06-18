@@ -25,6 +25,7 @@ Datasets: https://www.fire.ca.gov/incidents/, https://data.nodc.noaa.gov/cgi-bin
 Breakdown of Tasks: 
 
  1.) Use Pandas to clean and format your data set(s)
+   a.) Reduce cal_fires.csv to the following columns: incident_name, incident_date_created, incident_county, incident_acres_burned, incident_longitude, incident_latitude, incident_date_extinguished
  
  2.) Create a Jupyter Notebook describing the data exploration and cleanup process
  
