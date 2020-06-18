@@ -20,7 +20,7 @@ Research Questions (3-4):
 
 6.) Is there a correlation between wind intensity and wildfires? 
 
-Datasets: https://www.fire.ca.gov/incidents/, https://data.nodc.noaa.gov/cgi-bin/iso?id=gov.noaa.ncdc:C00313, https://data.ca.gov/dataset/cimis-weather-station-data1
+Datasets: https://www.kaggle.com/annieichen/top-20-largest-california-wildfires, https://data.nodc.noaa.gov/cgi-bin/iso?id=gov.noaa.ncdc:C00313, https://data.ca.gov/dataset/cimis-weather-station-data1
 
 Breakdown of Tasks: 
 
