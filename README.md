@@ -1,7 +1,4 @@
 # yellow
-<<<<<<< HEAD
-Project 1
-=======
 DataViz-Proj1
 
 Project Title: How Precipitation Impacts Wildfires in California
@@ -38,4 +35,3 @@ Breakdown of Tasks:
  5.) Optionally, use at least one API, if you can find an API with data pertinent to your primary research questions
  
  6.) Create a write-up summarizing your major findings. This should include a heading for each "question" you asked of your data, and under each heading, a short description of what you found and any relevant plots.
->>>>>>> parent of 9aaa577... Update README.md
