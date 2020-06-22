@@ -14,7 +14,9 @@ Research Questions (3-4):
 
 3.) Is there a correlation between the duration of a wildfire and precipitation? Could there be outside factors shortening the duration of a wildfire? Do fires last longer when there is less precipitation?
 
-4.)  
+4.) Is there a correlation between the number of structures affected and precipitation due to wildfires?? Is there a higher number of structures affected due to the lack of precipitation?
+
+5.) Is there a correlation between the number of deaths and precipitation due to wildfires? Are the numbers of deaths caused by wildfires correlated with precipitation?
 
 Datasets: https://www.kaggle.com/annieichen/top-20-largest-california-wildfires, https://data.nodc.noaa.gov/cgi-bin/iso?id=gov.noaa.ncdc:C00313, https://data.ca.gov/dataset/cimis-weather-station-data1, https://www.kaggle.com/rtatman/188-million-us-wildfires
 
