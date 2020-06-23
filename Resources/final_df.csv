@@ -1,0 +1,21 @@
+,Index,Fire Name,Cause,Acres,Structures,Deaths,County,Month,Year,Rainfall (in)
+0,0,Mendocino Complex,Under Investigation,459123,280,1,Colusa,July,2018,0.0
+1,1,Thomas,Powerlines,281893,1063,2,Ventura,December,2017,0.01
+2,2,Cedar,Human Related,273246,2820,15,San Diego,October,2003,0.01
+3,3,Rush,Lightning,271911,0,0,Lassen,August,2012,0.05
+4,4,Rim,Human Related,257314,112,0,Tuolumne,August,2013,0.1
+5,5,Zaca,Human Related,240207,1,0,Butte,November,2018,6.08
+6,6,Carr,Human Related,229651,1614,8,Fresno,July,2015,0.56
+7,7,Matilija,Undetermined,220000,0,0,Tulare,July,2002,0.01
+8,8,Witch,Powerlines,197990,1650,2,Tuolumne,August,1987,0.03
+9,9,Klamath Theater Complex,Lightning,192038,0,2,Trinity,August,1999,0.32
+10,10,Marble Cone,Lightning,177866,0,0,Monterey,July,1977,0.0
+11,11,Laguna,Powerlines,175425,382,5,San Diego,September,1970,0.01
+12,12,Basin Complex,Lightning,162818,58,0,Monterey,June,2008,0.0
+13,13,Day Fire,Human Related,162702,11,0,Ventura,September,2006,0.01
+14,14,Station,Human Related,160557,209,2,Los Angeles,August,2009,0.01
+15,15,Camp Fire,Powerlines,153336,18804,85,Santa Barbara,July,2007,0.0
+16,16,Rough,Lightning,151623,4,0,Shasta,July,2018,0.05
+17,17,Mcnally,Human Related,150696,17,0,Ventura,September,1932,0.53
+18,18,Stanislaus Complex,Lightning,145980,28,1,San Diego,October,2007,0.15
+19,19,Big Bar Complex,Lightning,140948,0,0,Siskiyou,June,2008,0.11
