@@ -8,15 +8,13 @@ Project Description: Our project will look at the relationship between precipita
 
 Research Questions (3-4): 
 
-1.) Is there a correlation between total amount of rain in a specific area and the total number of wildfires? 
+1.) Is there a correlation between total amount of rainfall in a specific area and the total number of wildfires? 
 
-2.) Is there a correlation between total number of acres burned and precipitation or the size of wildfires? 
+2.) Is there a correlation between total number of acres burned and rainfall? 
 
-3.) Is there a correlation between the duration of a wildfire and precipitation? Could there be outside factors shortening the duration of a wildfire? Do fires last longer when there is less precipitation?
+3.) Is there a correlation between the number of structures affected and rainfall due to wildfires?? Is there a higher number of structures affected due to the lack of rainfall?
 
-4.) Is there a correlation between the number of structures affected and precipitation due to wildfires?? Is there a higher number of structures affected due to the lack of precipitation?
-
-5.) Is there a correlation between the number of deaths and precipitation due to wildfires? Are the numbers of deaths caused by wildfires correlated with precipitation?
+4.) Is there a correlation between the number of deaths and rainfall due to wildfires? Are the numbers of deaths caused by wildfires correlated with rainfall?
 
 Datasets: https://www.kaggle.com/annieichen/top-20-largest-california-wildfires, https://data.nodc.noaa.gov/cgi-bin/iso?id=gov.noaa.ncdc:C00313, https://data.ca.gov/dataset/cimis-weather-station-data1, https://www.kaggle.com/rtatman/188-million-us-wildfires
 
