@@ -12,7 +12,7 @@ Research Questions (3-4):
 
 2.) Is there a correlation between total number of acres burned and rainfall? 
 
-3.) Is there a correlation between the number of structures affected and rainfall due to wildfires?? Is there a higher number of structures affected due to the lack of rainfall?
+3.) Is there a correlation between the number of structures affected and rainfall due to wildfires? Is there a higher number of structures affected due to the lack of rainfall?
 
 4.) Is there a correlation between the number of deaths and rainfall due to wildfires? Are the numbers of deaths caused by wildfires correlated with rainfall?
 
