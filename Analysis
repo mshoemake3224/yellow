@@ -11,3 +11,5 @@ indicated there is no relationship between the number of structures affected and
 Besides, our outlier of Camp Fire, it is difficult to find a relationship between how many structures are affected and the amount of rainfall a place receives.
 The cause of the wildfire, the spread of the wildfire, the infrastructure and material of buildings and the response to the wildfire may be better indicators of
 how many structures are affected by a wildfire than rainfall. 
+
+Based on our results, we have a p-value of 2.15 meaning our data is not statistically significant and we cannot reject our null hypothesis. 
