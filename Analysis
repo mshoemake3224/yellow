@@ -12,4 +12,5 @@ Besides, our outlier of Camp Fire, it is difficult to find a relationship betwee
 The cause of the wildfire, the spread of the wildfire, the infrastructure and material of buildings and the response to the wildfire may be better indicators of
 how many structures are affected by a wildfire than rainfall. 
 
-Based on our results, we have a p-value of 2.15 meaning our data is not statistically significant and we cannot reject our null hypothesis. 
+Based on our results, we have a p-value of 2.15 meaning our data is not statistically significant and we cannot reject our null hypothesis. If we had more data,
+our p-value may have been closer to .05. Our hypotheses would have been stronger if we had more data to test on. 
