@@ -3,6 +3,7 @@ Question 3:
 Is there a correlation between the number of structures affected and rainfall due to wildfires? 
 Is there a higher number of structures affected due to the lack of rainfall?
 
+In order to examine the relationship between the number of structures affected and rainfall and to see if there was correlation, a scatter plot was used and we did a regression analysis.
 Based on the data, there is no correlation between the number of structures affected and rainfall as it pertains to wildfires. With an r-value of -.09,
 there is nocorrelation between the number of structures affected and rainfall. One problem with our data is that it is a small data set with only 20 points. 
 With more data points, we could morer clearly demonstrate whether or not there is correlation. When taking out the outliers of Zaca and Camp Fire, the r-value 
