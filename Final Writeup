@@ -1,0 +1,6 @@
+Question 2: Is there a correlation between rainfall and the total number of wildfires?
+  Based on the statistical analysis conducted we can conclude that there is no clear relationship between the amount of rainfall 
+  and the number of acres burned using the top 20 California wildfire historical data set. We do not see a normally distributed 
+  data set either; p vales are very high (Ares Burned = 3.96 & Rainfall = 1.10). A linear regression model was also trialed, but 
+  it was a poor fit (correlation coefficient of -0.15). To conclude, the recommendation would be to capture a larger amount of data 
+  to be certain but it looks like no relationship exists. 
