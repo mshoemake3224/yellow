@@ -3,10 +3,10 @@ Analysis of Our Findings
 Is there a correlation between the number of structures affected and rainfall due to wildfires? 
 Is there a higher number of structures affected due to the lack of rainfall?
 
-Based on the data, there is no correlation between the number of structures affected and rainfall as it pertains to wildfires. With an r-value of -.09, there is no
-correlation between the number of structures affected and rainfall. One problem with our data is that it is a small data set with only 20 points. With more data
-points, we could morer clearly demonstrate whether or not there is correlation. When taking out the outliers of Zaca and Camp Fire, the r-value was .05 which 
-indicated there is no relationship between the number of structures affected and rainfall. 
+Based on the data, there is no correlation between the number of structures affected and rainfall as it pertains to wildfires. With an r-value of -.09,
+there is nocorrelation between the number of structures affected and rainfall. One problem with our data is that it is a small data set with only 20 points. 
+With more data points, we could morer clearly demonstrate whether or not there is correlation. When taking out the outliers of Zaca and Camp Fire, the r-value was 
+.05 which indicated there is no relationship between the number of structures affected and rainfall. 
 
 Besides, our outlier of Camp Fire, it is difficult to find a relationship between how many structures are affected and the amount of rainfall a place receives.
 The cause of the wildfire, the spread of the wildfire, the infrastructure and material of buildings and the response to the wildfire may be better indicators of
